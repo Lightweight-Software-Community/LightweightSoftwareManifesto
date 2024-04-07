@@ -1,0 +1,19 @@
+Lightweight Software Manifesto
+
+Focus on simplicity: Lightweight Software aims to be simple and intuitive for users. We strive to avoid unnecessary complexity and ensure usability.
+
+Minimum size and resource consumption: Our software is developed with the principle of minimization of the size and consumption of system resources. We strive to reduce the load on computers, mobile devices and other platforms, providing high performance and responsiveness.
+
+Flexibility and modularity: Lightweight software is built on the principles of flexibility and modularity. We try to create components that can be easily replaced or changed without completely rewriting the system. This helps us adapt to changing needs and ensure faster product development and updates.
+
+Fast loading and response: We attach great importance to the speed of loading and response in our software. Minimal waiting time helps users to use the app as efficiently as possible and improve their overall experience.
+
+Safety and reliability: Lightweight software relies on safety and reliability. We make every effort to ensure the safe operation and protection of user data. More thorough testing and compliance with standards help us to create reliable products.
+
+Support and Updates: We are constantly working to improve and develop our software. We provide regular updates and support so that our users can receive new features, fixes and improvements.
+
+Community and Openness: We actively support the community of users and developers. We appreciate feedback and suggestions to improve our software and make it more useful and convenient for everyone.
+
+We believe that Lightweight Software is the future. We strive to create effective, simple and reliable products that will inspire users and bring meaningful benefits.
+
+Revision of 08.08.2023
